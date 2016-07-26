@@ -20,7 +20,7 @@ for line in f:
     columns = [col.strip() for col in columns]
     # ensure the column has at least one value before printing
     if columns and count<=2:
-    	print  columns[0]  + " " +columns[-1]# print the first column
+    	print  columns[0]  + " " +columns[-1]
 	if count<=2:
 		count=count+1
 		flag=flag+1
