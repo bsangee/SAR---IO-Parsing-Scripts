@@ -6,9 +6,4 @@ python parse_hulk3.py Terasort_Run1_WithComp_hulk3  > hulk3
 python parse_hulk4.py Terasort_Run1_WithComp_hulk4  > hulk4
 
 
-#python skip_line.py amaranth1 > 1
-#python skip_line.py amaranth4 > 2
-#python skip_line.py amaranth6 > 3
-#python skip_line.py hulk2 > 4
-#python skip_line.py hulk3 > 5
-#python skip_line.py hulk4 > 6
+
